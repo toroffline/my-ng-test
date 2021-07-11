@@ -1,0 +1,19 @@
+.login-container {
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.login-header {
+  color: cadetblue;
+}
+
+.login-btn {
+  background-color: teal;
+  color: antiquewhite;
+  padding: 10px;
+  border: 0;
+  border-radius: 20px;
+}
